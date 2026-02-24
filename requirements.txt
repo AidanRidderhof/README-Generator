@@ -1,0 +1,5 @@
+dotenv
+gradio
+openai
+os
+requests
